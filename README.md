@@ -1,2 +1,2 @@
-# WalletApp
+# Java Hands On Training
  
